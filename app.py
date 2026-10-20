@@ -22,7 +22,7 @@ st.markdown("""
 # ==========================================
 with st.sidebar:
     st.markdown("---")
-    st.markdown("### 👨‍💻 Developer")
+    st.markdown("###  Developer")
     st.markdown("**Khashayar Ghavampour**")
     st.markdown("*Occupational Health Specialist*")
     st.markdown("*M.Sc. in Environmental Engineering*")
